@@ -3,7 +3,7 @@
 
 ![version](https://img.shields.io/badge/version-4.4.0-blue.svg?longCache=true&style=flat-square)
 
-![Map-OS](https://raw.githubusercontent.com/PaulloRocha/mapos/master/docs/dashboard.png)
+https://github.com/PaulloRocha/MAPOS-4.4/blob/master/docs/dashboard.png?raw=true
 
 ### SISTEMA MAPOS NÃO OFICIAL!
 
